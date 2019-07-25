@@ -2,6 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.1.
 
+# Concepts used in this project
+Developed modern, complex, responsive and scalable web applications with Angular6
+  1. Custom directives
+  2. Databinding
+  3. Routing and handling Navigation
+  4. Pipes
+  5. Dependency Injection: communicating data between components
+  6. Modules creation
+  7. Observables
+  
+  
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
